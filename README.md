@@ -11,3 +11,9 @@
 > - Kitap Ödünç Alma ve İade İşlemleri
 > - Kullanıcıların Ödünç Aldıkları Kitapları Görüntüleme
 > - Yönetici ve Kullanıcı Rolleri
+
+# Gereksinimler
+> [!WARNING]
+> - PHP 7.4 veya üstü
+> - MySQL 5.7 veya üstü
+> - Apache veya Nginx web sunucusu
