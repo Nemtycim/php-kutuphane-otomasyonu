@@ -9,6 +9,8 @@
 > 3. Projeye uygun veritabanını oluşturun.
 > 4.  Web sunucunuzu yapılandırın ve projeyi başlatın.
 
+> [!TIP]
+> ## Özellikler Ve Gereksinimler
 | **Özellikler** | **Gereksinimler** |
 | --- | --- |
 | - Kitap Ekleme, Güncelleme, Silme | - PHP 7.4 veya üstü |
