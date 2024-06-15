@@ -3,6 +3,7 @@
 
 > [!IMPORTANT]  
 > Bu proje, PHP dili kullanılarak geliştirilmiş bir kütüphane otomasyon sistemidir. Bu sistem, kitapların, kullanıcıların ve ödünç alma işlemlerinin yönetimini kolaylaştırmayı amaçlamaktadır.
+> ## Kurulum
 > 1. Projeyi indirin veya klonlayın.
 > 2. XAMPP uygulamasını indirin.
 > 3. Projeye uygun veritabanını oluşturun.
